@@ -1,0 +1,91 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{black}
+\nopagenumbers{}
+\usepackage[utf8]{inputenc}
+\usepackage{ragged2e}
+\usepackage[scale=0.915]{geometry}
+\usepackage{import}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{setspace} % Add this package for line spacing
+\setstretch{1.15} % Adjust line spacing as desired
+\name{Dylan}{Chen}
+\newcommand*{\customcventry}[7][.13em]{
+\begin{tabular}{@{}l}
+{\bfseries #4} \
+{\itshape #3}
+\end{tabular}
+\hfill
+\begin{tabular}{l@{}}
+{\bfseries #5} \
+{\itshape #2}
+\end{tabular}
+\ifx&#7&%
+\else{\
+\begin{minipage}{\maincolumnwidth}%
+\small#7%
+\end{minipage}}\fi%
+\par\addvspace{#1}}
+\begin{document}
+\makecvtitle
+\vspace*{-16mm}
+\begin{center}\textbf{ Front-end Developer  }\end{center}
+\begin{center}
+\begin{tabular}{ c c c } 
+\faMobile\enspace +886 931768323& \enspace easycard32145@gmail.com \ & \faHome\enspace New Taipei City\\ 
+\faLinkedin\enspace \color{blue} \href{https://www.linkedin.com/in/dylan-chen-92366b1b0/}{dylan-chen-92366b1b0}&
+\faGithub\enspace \color{blue} \href{https://github.com/gary880}{github.com/gary880}& \enspace \\ \end{tabular}
+\end{center}
+ 
+
+\section{ Experience}
+
+\customcventry{07/2023 ‐ present}{\textbf{SINBON Electronics}}{Software Engineer,}{New Taipie City, Taiwan}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Implemented Front-end testing methodologies within the team.
+\item Created an Application specifically designed for Apple Watch.
+\item Created an Application for Ebike using React Native.
+\item Conducted code reviews for junior developers.
+\end{itemize}}}
+
+\customcventry{04/2022 ‐ 07/2023}{\textbf{Colerate}}{Front-end Developer,}{Taipei City, Taiwan}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Designed high-quality consumer web application interfaces.
+\item Collaborated closely with project managers and designers.
+\item Boosted online visibility through the implementation of highly effective SEO strategies, achieving Lighthouse SEO score increase from 82 to 100.
+\end{itemize}}}
+
+\customcventry{02/2023‐ 6/2023}{\textbf{Freelancer}}{Front-end Developer,}{Taipei City, Taiwan}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Designed high-quality consumer web application interfaces.
+\item Implemented efficient and reusable front-end components and UI effects.
+\item Provided mentorship and guidance to a junior front-end engineer.
+\end{itemize}}}
+
+
+\section{Education}
+
+\customcventry{2017-2021}{\color{blue}\href{https://www.ccu.edu.tw/}{National Chung Cheng University}}{Bachelor of Communication Engineering}{Chiayi, Taiwan}{}{}
+
+\section{Skills}
+
+\begin{itemize}[label=\textbullet]
+  \item \textbf{Frontend Development:} HTML, CSS, TypeScript, React (Redux, React Router, Material-UI), React Native, Swift
+  \item \textbf{Backend Development:} Node.js, JavaScript
+  \item \textbf{Testing Framework:} Jest
+  \item \textbf{Software Tools:} Git, Docker
+  \item \textbf{Design Tools:} Figma
+\end{itemize}
+
+\section{Languages}
+
+\begin{multicols}{2}
+  \begin{itemize}[label=\textbullet]
+    \item \textbf{Chinese} [Native]
+    \item \textbf{English} [Advanced]
+  \end{itemize}
+\end{multicols}
+
+\end{document}
