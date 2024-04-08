@@ -17,6 +17,14 @@ New Taipei City, Taiwan
 - Created an Application using React Native.
 - Conducted code reviews for junior developers.
 
+### Freelancer
+*Front-end Developer*  
+Taipei City, Taiwan
+
+- Designed high-quality consumer web application interfaces.
+- Implemented efficient and reusable front-end components and UI effects.
+- Provided mentorship and guidance to a junior front-end engineer.
+
 ### Colerate
 *Front-end Developer*  
 Taipei City, Taiwan
@@ -25,13 +33,7 @@ Taipei City, Taiwan
 - Collaborated closely with project managers and designers.
 - Boosted online visibility through the implementation of highly effective SEO strategies, achieving Lighthouse SEO score increase from 82 to 100.
 
-### Freelancer
-*Front-end Developer*  
-Taipei City, Taiwan
 
-- Designed high-quality consumer web application interfaces.
-- Implemented efficient and reusable front-end components and UI effects.
-- Provided mentorship and guidance to a junior front-end engineer.
 
 ## Education
 
