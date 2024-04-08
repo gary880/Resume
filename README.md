@@ -23,7 +23,7 @@ Taipei City, Taiwan
 
 - Designed high-quality consumer web application interfaces.
 - Collaborated closely with project managers and designers.
-- Improved online visibility through effective SEO strategies.
+- Boosted online visibility through the implementation of highly effective SEO strategies, achieving Lighthouse SEO score increase from 82 to 100.
 
 ### Freelancer
 *Front-end Developer*  
