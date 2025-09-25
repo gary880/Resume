@@ -60,11 +60,21 @@ through structured coaching programs.
 
 ## Skills
 
-- **Frontend Development:** HTML, CSS, TypeScript, React (Redux, React Router, Material-UI), React Native, Swift  
-- **Backend Development:** Node.js, JavaScript  
-- **Testing Frameworks:** Jest, React Testing Library  
-- **Software Tools:** Git, Docker, Webpack  
-- **Design Tools:** Figma  
+- **Programming Languages:** TypeScript, JavaScript, HTML5, CSS3, Swift
+- **Testing & Quality Assurance:** Jest, React Testing Library, Unit Testing
+- **Build & Development Tools:** Git, Docker, Webpack, CI/CD Pipelines
+- **Backend Development:** Node.js, Express, RESTful APIs
+- **Design & Prototyping:** Figma, Responsive Web Design
+
+---
+
+## Core Competencies
+
+- **Leadership & Mentoring:** junior developer coaching, technical knowledge transfer, structured onboarding
+- **Cross-functional Collaboration:** Product Owner coordination, QA collaboration, Agile methodologies, risk management
+- **Project Management:** Feature delivery optimization, quality assurance processes, roadmap planning
+- **Technical Expertise:** Frontend architecture design, performance optimization, scalable component development, code
+review automation
 
 ---
 
