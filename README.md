@@ -1,84 +1,54 @@
-# Dylan Chen
+# You Peng Chen (Dylan Chen) 
 
-## Senior Front-end Developer
-
-📍 New Taipei City, Taiwan  
-📞 +886 931768323 | 📧 easycard32145@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan%20Chen-blue?logo=linkedin)](https://www.linkedin.com/in/dylan-chen-92366b1b0/)  
-[![GitHub](https://img.shields.io/badge/GitHub-gary880-lightgray?logo=github)](https://github.com/gary880)  
-
+#### New Taipei City, Taiwan | 📞 +886 931768323 | ✉️ easycard32145@gmail.com | GitHub: [https://github.com/gary880](https://github.com/gary880)
 ---
 
 ## Experience
 
-### **Senior Front-end Developer, 91APP**  
-📍 New Taipei City, Taiwan | **08/2024 - Present**  
-- Established AI-assisted code review process, reducing PR review time by 42% through survey-validated automation while
-significantly improving code quality and development efficiency.
-- Optimized CMS backend rendering performance, reducing unnecessary component re-renders and substantially enhancing
-system performance to support increased user traffic.
-- Led standardization of development documentation, streamlining new employee onboarding from 3 months to 2 months and
-improving team productivity.
-- Spearheaded Q3 core revenue feature delivery, successfully developed and launched CMS drag-and-drop editor from POC to
-production, creating new monetization opportunities as a premium paid service.
-- Proactively coordinated with Product Owners and QA teams to synchronize project progress and mitigate deployment risks,
-ensuring 100% on-time delivery of Q3 features.
-- Established technical knowledge-sharing culture, initiating and facilitating team book clubs that enhanced cross-team
-collaboration and accelerated professional development.
-- Mentored 2 junior engineers, providing technical guidance and accelerating their integration into the team within 3 months
-through structured coaching programs.
+### **Senior Front-end Developer | 91APP**
+*New Taipei City, Taiwan | 08/2024 – Present*
 
-### **Software Engineer, SINBON Electronics**  
-📍 New Taipei City, Taiwan | **07/2023 - 07/2024**  
-- Integrated front-end testing frameworks (**Jest, React Testing Library**) to enforce code quality and reliability.  
-- Built an **Apple Watch application** to seamlessly transmit health data to mobile devices, enhancing real-time monitoring capabilities.  
-- Developed a **React Native Ebike application**, enabling Bluetooth communication for real-time data retrieval.  
-- Implemented **power management features**, reducing energy consumption by **40%** when running in the background.  
-- Conducted **code reviews for junior developers**, ensuring high code quality standards.  
+* **Cross-Framework Rendering Architecture**: Designed and maintained a framework-agnostic rendering engine, enabling seamless UI integration across diverse tech stacks while ensuring consistent performance and design system compliance.
+* **High-Performance CMS Editor**: Engineered a production-grade **drag-and-drop CMS editor** from POC to launch. Optimized complex state management and DOM update strategies to support nested layouts and high-frequency user interactions.
+* **Performance Engineering**: Refactored legacy rendering logic to minimize redundant component re-renders, significantly improving system stability and responsiveness during peak traffic periods.
+* **Engineering Workflow & AI**: Built an **AI-assisted code review pipeline** integrated with CI/CD, automating architectural consistency checks and routine logic validation, which reduced manual PR review latency by **42%**.
+* **Technical Leadership & Mentoring**: Facilitated engineering study group and standardized technical documentation to accelerate team growth. Mentored 2 junior engineers, successfully reducing their onboarding ramp-up time from 3 months to 2.
+* **Stakeholder Alignment**: Collaborated directly with Product Owners and QA teams to refine technical specifications and mitigate deployment risks, ensuring predictable delivery of complex feature sets.
 
-### **Front-end Developer, Freelancer**  
-📍 Taipei City, Taiwan | **02/2023 - 06/2023**  
-- Developed **reusable front-end components** for a **Carbon Emissions Dashboard**, accelerating development speed and improving maintainability.  
-- Contributed to a **10% boost in the Lighthouse performance score** through optimizations.  
-- Designed **high-quality, user-friendly interfaces** for consumer-facing web applications.  
-- Mentored a **junior front-end engineer**, providing technical guidance and best practices.  
+### **Software Engineer | SINBON Electronics**
+*New Taipei City, Taiwan | 07/2023 – 07/2024*
 
-### **Front-end Developer, Colerate**  
-📍 Taipei City, Taiwan | **04/2022 - 07/2023**  
-- Developed **responsive web interfaces** for an **online quiz system and dashboard** using **Material UI**, enhancing user engagement.  
-- Collaborated with project managers and designers to translate concepts into high-quality, functional code.  
-- Improved **Lighthouse SEO score from 82 to 100** through effective optimization strategies.  
+* **Mobile & IoT Integration**: Developed a **React Native Ebike application** utilizing Bluetooth protocols for real-time telemetry; implemented power management strategies that reduced background energy consumption by **40%**.
+* **Wearable Technology**: Built an Apple Watch application to synchronize health data with mobile devices, focusing on data integrity and low-latency transmission.
+* **Quality Assurance**: Established front-end testing standards using **Jest and React Testing Library**, improving overall code reliability and facilitating safer refactoring.
+
+### **Front-end Developer | Colerate**
+*Taipei City, Taiwan | 04/2022 – 07/2023*
+
+* **SEO & Web Performance**: Optimized an online quiz and dashboard system, successfully increasing the **Lighthouse SEO score from 82 to 100**.
+* **Interface Development**: Leveraged **Material UI** and TypeScript to build responsive, accessible web interfaces, improving user engagement metrics.
+
+---
+
+## Technical Skills
+
+* **Languages**: TypeScript, JavaScript (ES6+), HTML5, CSS3, Rust (Wasm)
+* **Frameworks & Libraries**: React, Next.js, React Native, Web Components, Material UI
+* **Engineering & DevOps**: CI/CD Pipelines, Docker, Webpack, Nginx, Git, Node.js, RESTful APIs
+* **Testing**: Jest, React Testing Library, Unit/Integration Testing
+* **Tools & Design**: Figma, Responsive Design, Performance Profiling
 
 ---
 
 ## Education
 
-### [National Chung Cheng University](https://www.ccu.edu.tw/)  
-📍 Chiayi, Taiwan | **Bachelor of Communication Engineering (2017 - 2021)**  
-
----
-
-## Skills
-
-- **Programming Languages:** TypeScript, JavaScript, HTML5, CSS3, Swift
-- **Testing & Quality Assurance:** Jest, React Testing Library, Unit Testing
-- **Build & Development Tools:** Git, Docker, Webpack, CI/CD Pipelines
-- **Backend Development:** Node.js, Express, RESTful APIs
-- **Design & Prototyping:** Figma, Responsive Web Design
-
----
-
-## Core Competencies
-
-- **Leadership & Mentoring:** junior developer coaching, technical knowledge transfer, structured onboarding
-- **Cross-functional Collaboration:** Product Owner coordination, QA collaboration, Agile methodologies, risk management
-- **Project Management:** Feature delivery optimization, quality assurance processes, roadmap planning
-- **Technical Expertise:** Frontend architecture design, performance optimization, scalable component development, code
-review automation
+### **National Chung Cheng University**
+*Chiayi, Taiwan | 2017 – 2021*
+* **Bachelor of Communication Engineering**
 
 ---
 
 ## Languages
 
-- **Chinese** (Native)  
-- **English** (Advanced)  
+* **Chinese**: Native
+* **English**: Advanced
